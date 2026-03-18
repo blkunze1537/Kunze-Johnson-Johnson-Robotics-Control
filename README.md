@@ -8,15 +8,11 @@
 - **Notebook**: `Control_System_Diagnostics_Notebook.ipynb`
   - Diagnose and optimize the robotic arm’s control system.
   - Identify delays in commands like `rotate_joint`, `move_arm`, and `adjust_grip`.
-- **Resource**: [Diagnostics Guide](./Diagnostics_Guide.pdf)
-  - Detailed instructions on troubleshooting and optimizing control code.
 
 ### Task 2: Design Optimization
 - **Notebook**: `Robotic_Arm_Design_Simulation.ipynb`
   - Simulate design modifications for improved response times and durability.
   - Test factors like efficiency and reinforcement using provided tools.
-- **Resource**: [Design Optimization Principles](./Design_Optimization_Principles.pdf)
-  - Learn the fundamentals of design optimization and real-world applications.
 
 ---
 
